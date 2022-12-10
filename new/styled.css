@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap');
+  h1 {
+    
+    text-transform:uppercase;
+    font-family: "Playfair Display", serif;
+    text-decoration: none;
+    color: #171617;
+    background: transparent;
+    box-sizing:border-box;
+    font-size:12.5vw;
+    line-height:1.11111;
+    font-weight:900;
+    text-align: center;
+    word-wrap:break-word;
+
+  }
+
+  body {
+    font-family: "League Spartan";
+  }
+ 
